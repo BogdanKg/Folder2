@@ -1,3 +1,2 @@
-# Folder2
-
-Ovo je moj drugi folder
+# Folder1
+Moj prvi folder
